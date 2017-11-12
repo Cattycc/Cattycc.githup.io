@@ -1,0 +1,128 @@
+body{
+	background-color: lightblue;
+}
+
+h2 {
+	position: absolute;
+    bottom: 0;
+    width: 200px;
+    color: lightblue;
+    font-size: small 10;
+}
+audio{
+	color:lightblue;
+}
+h4{
+	color:gray;
+}
+.im{
+	background-image: url(../img/image.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height:70vh;
+	background-attachment: fixed;
+
+}
+
+.navbar{
+	margin-bottom: 0px;
+	width: 100%;
+	position: fixed;
+	z-index: 999;
+}
+.navbar-brand{
+	color: white;
+}
+.pink {
+	display:inline-block;
+}
+.yellow {
+	display:inline-block;
+}
+.imagecircle{
+	border-radius: 50%；
+}
+.card{
+	border: 2px solid gray;
+	border-radius: 12px;
+	margin: 10px;
+	background-color: white;
+}
+.progress-success{
+	color: green;
+}
+.card-block1{
+	text-align: center;
+	padding: 12px;
+}
+.card-block2{
+	padding-left: 10px
+
+}
+.card-block3{
+	padding: 12px;
+}
+.card-block4{
+	padding: 12px;
+}
+.progress1{
+	margin-bottom: 0; 
+}
+.progress2{
+	margin-bottom: 0; 
+}
+.progress3{
+	margin-bottom: 0
+}
+.progress4{
+	margin-bottom: 0
+}
+.travelimage{
+	width: 300px;
+	height:auto;
+	margin-bottom: 15px;
+}
+.head{
+	width: 100%; 
+	height:100px;
+}
+.a{
+    display: 
+    inline-block;
+    width: 44%;
+    margin-left: 8
+}
+p{
+	margin-right: 10px;
+}
+.player {
+    width:250px;
+    overflow: hidden; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
